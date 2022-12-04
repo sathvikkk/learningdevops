@@ -2,6 +2,7 @@ import tkinter
 from tkinter import *
 from tkinter import messagebox
 
+#calculator application
 # setting up the tkinter window
 root = tkinter.Tk()
 root.geometry("450x500+200+200")
