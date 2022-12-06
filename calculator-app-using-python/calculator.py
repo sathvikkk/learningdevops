@@ -252,7 +252,7 @@ btnx.bind("<Leave>", left_)
 
 btnpower = Button(
     btnrow0,
-    text = "EXPO",
+    text = "EXPONT",
     font = ("Verdana", 22),
     bg = "#b9ebfa",
     relief = GROOVE,
